@@ -3,4 +3,4 @@
 	url = https://github.com/hakimel/reveal.js.git
 [submodule "stylesheets"]
 	path = stylesheets
-	url = git@github.com:Delawen/stylesheets.git
+	url = https://github.com/Delawen/stylesheets.git
